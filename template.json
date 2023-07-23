@@ -2,12 +2,12 @@
     "contact": "idk, it's my first template pog",
     "templates": [
         {
-            "name": "Distortion Detective",
+            "name": "Distortion_Detective",
             "sources": [
                 "https://cdn.discordapp.com/attachments/1131744159854768130/1132679586845565139/NewCanvas1.png"
             ],
             "x": 1827,
-            "y": 899
+            "y": 800
         },
        
     ],
